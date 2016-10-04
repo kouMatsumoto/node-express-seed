@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "removeComments": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "rootDir": "./",
+    "outDir": "./"
+  },
+  "files": [
+    "./typings/index.d.ts",
+    "./index.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "gulp",
+    "log",
+    "views",
+    "server-dist"
+  ]
+}

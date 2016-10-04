@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# To keep empty directory
+!.gitkeep
+
+# Editor and IDE settings
+.idea
+
+/logs/*
+/typings
+/public
